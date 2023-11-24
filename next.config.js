@@ -7,9 +7,9 @@ const nextConfig = {
             {hostname: "img.freepik.com"},
     ],
     },
-    // experimental: {
-    //     serverActions: true,
-    // },
+    experimental: {
+        serverActions: true,
+    },
 };
 
 module.exports = nextConfig;
