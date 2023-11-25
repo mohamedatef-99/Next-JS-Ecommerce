@@ -11,7 +11,7 @@ https://github.com/mohamedatef-99/Next-JS-Ecommerce/assets/60486913/6460015f-c22
 
 ## Website Link
 
-[Visit the E-Commerce Website](https://nextjs-ecommerce-ma.netlify.app/)
+[Visit the NextJS E-Commerce Website](https://nextjs-ecommerce-ma.netlify.app/)
 
 ## Features
 
