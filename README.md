@@ -4,7 +4,11 @@ Full-stack e-commerce website built using Next.js! By leveraging Next.js's serve
 
 ## Video Demo
 
-[![E-Commerce Project Demo] (https://www.loom.com/share/8d91e17006da40dea192c229072e851a?sid=4a7e0487-1412-45d2-a949-de22d98db105)
+
+
+https://github.com/mohamedatef-99/Next-JS-Ecommerce/assets/60486913/6460015f-c226-4485-979e-4126e1b28701
+
+
 
 
 ## Features
